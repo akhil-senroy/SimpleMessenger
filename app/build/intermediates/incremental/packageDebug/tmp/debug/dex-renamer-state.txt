@@ -1,0 +1,4 @@
+#Thu Feb 07 12:18:18 EST 2019
+base.0=/Users/AkhilSenroy/Desktop/SimpleMessenger/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
